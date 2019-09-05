@@ -29,7 +29,6 @@ dependencies:
   - config_ignore
   - config_split
   - contextual
-  - critical_css
   - crop
   - ctools
   - datetime

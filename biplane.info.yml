@@ -3,6 +3,7 @@ type: profile
 description: 'Common configuration to fast-track site setup and development.'
 version: VERSION
 core: 8.x
+core_version_requirement: ^8 || ^9
 dependencies:
   - address
   - admin_toolbar

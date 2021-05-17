@@ -341,7 +341,7 @@ function _biplane_install_tasks_config_split($split_name, &$context) {
  */
 function biplane_install_tasks_config_export() {
   // Get directory path.
-  $path_sync = Path::canonicalize(config_get_config_directory(CONFIG_SYNC_DIRECTORY));
+  $path_sync = Path::canonicalize(Settings::get('config_sync_directory'));
 
   // Load storage instances.
   /** @var \Drupal\Core\Config\StorageInterface $source_storage */
@@ -420,7 +420,8 @@ function biplane_install_tasks_config_import() {
       \Drupal::service('module_handler'),
       \Drupal::service('module_installer'),
       \Drupal::service('theme_handler'),
-      \Drupal::service('string_translation')
+      \Drupal::service('string_translation'),
+      \Drupal::service('extension.list.module')
     );
 
     foreach ($config_importer->initialize() as $sync_step) {

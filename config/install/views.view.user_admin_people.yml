@@ -1,8 +1,11 @@
+uuid: b6ea360c-053a-4624-be53-c82928d5fca1
 langcode: en
 status: true
 dependencies:
   module:
     - user
+_core:
+  default_config_hash: wTJRNzsLVTenCALONNlVfgm_pBOlqucSPuVFLOD56ck
 id: user_admin_people
 label: People
 module: user
@@ -10,7 +13,6 @@ description: 'Find and manage people interacting with your site.'
 tag: default
 base_table: users_field_data
 base_field: uid
-core: 8.x
 display:
   default:
     display_plugin: default

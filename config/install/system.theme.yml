@@ -1,2 +1,4 @@
-admin: seven
-default: bartik
+_core:
+  default_config_hash: ny1bTY90aVmS_bPWSXn_j3HQjE2w8XnlZy23uHwKcH4
+admin: claro
+default: olivero

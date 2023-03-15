@@ -1,3 +1,5 @@
+_core:
+  default_config_hash: XgCB1l1PxU3u87McSc5eUqSPTBtVSyoqbRWbIptrjRg
 anonymous: Anonymous
 verify_mail: true
 notify:
@@ -9,7 +11,7 @@ notify:
   register_admin_created: true
   register_no_approval_required: true
   register_pending_approval: true
-register: admin_only
+register: visitors_admin_approval
 cancel_method: user_cancel_block
 password_reset_timeout: 86400
 password_strength: true

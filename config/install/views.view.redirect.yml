@@ -1,3 +1,4 @@
+uuid: 0dd0bf13-c269-44f2-966e-64b202fc7c70
 langcode: en
 status: true
 dependencies:
@@ -5,6 +6,8 @@ dependencies:
     - link
     - redirect
     - user
+_core:
+  default_config_hash: nyKyD0xiKPzp-sRYnfEnHSMz29rdivJvMv2Qjnm5jvk
 id: redirect
 label: Redirect
 module: views
@@ -12,7 +15,6 @@ description: 'List of redirects'
 tag: ''
 base_table: redirect
 base_field: rid
-core: 8.x
 display:
   default:
     display_plugin: default

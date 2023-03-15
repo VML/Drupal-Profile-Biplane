@@ -1,12 +1,14 @@
+uuid: d9aadfac-834b-4c4f-8fda-a92af18ee6c9
 langcode: en
 status: true
 dependencies:
   config:
     - field.field.media.image.field_media_image
-    - image.style.medium
     - media.type.image
   module:
     - image
+_core:
+  default_config_hash: jOwnt_yq6AKAfqU6f0xKnxEkFQ2eTPJWxrk3WMLbL68
 id: media.image.default
 targetEntityType: media
 bundle: image
@@ -23,6 +25,6 @@ content:
     region: content
 hidden:
   created: true
+  name: true
   thumbnail: true
   uid: true
-  name: true

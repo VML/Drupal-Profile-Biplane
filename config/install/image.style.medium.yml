@@ -1,6 +1,9 @@
+uuid: 4f47bc74-12bc-4839-9e48-2509896e4811
 langcode: en
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: a1tzb5RUxL3iDWy1RorCnhBY3lvb7zoKVmm5HY4aPI0
 name: medium
 label: 'Medium (220×220)'
 effects:

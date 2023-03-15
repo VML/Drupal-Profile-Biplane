@@ -1,8 +1,11 @@
+uuid: b0e94e72-523f-432e-9845-53118d46c66f
 langcode: en
 status: true
 dependencies:
   module:
     - focal_point
+_core:
+  default_config_hash: xlXzPRNzpmkUJ0czYUBX_MdqOd5QDSAXwsiot179XPQ
 name: large_cropped
 label: 'Large (480x480, cropped)'
 effects:

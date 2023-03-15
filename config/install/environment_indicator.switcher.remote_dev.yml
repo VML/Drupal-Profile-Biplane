@@ -1,9 +1,13 @@
+uuid: e4f892ff-205b-413c-b164-9d3fa0bb513c
 langcode: en
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: EKFh_jQ4k4BHcn-MXfkN9DkGHcAGP4dqhPBBu4I2Gsw
 machine: remote_dev
 description: null
 name: Dev
-url: 'https://dev-www.bazo.com'
+weight: null
+url: 'https://dev-www.my-first-drupal10-app.lndo.site.com'
 fg_color: '#333333'
 bg_color: '#ffcc66'

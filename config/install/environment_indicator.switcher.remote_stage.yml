@@ -1,9 +1,13 @@
+uuid: ecf09285-396a-4568-b4b5-81210c550e59
 langcode: en
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: tkxs7gMvV5J2lXrCzrQGrKeVg0Uiwnu3bOGJz_kDqzY
 machine: remote_stage
 description: null
 name: Stage
-url: 'https://stage-www.bazo.com'
+weight: null
+url: 'https://stg-www.my-first-drupal10-app.lndo.site.com'
 fg_color: '#e6e6e6'
 bg_color: '#008040'

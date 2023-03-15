@@ -1,8 +1,13 @@
+uuid: 5447771f-3665-4fd9-9356-da35ad124cd9
 langcode: en
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: ERHG6Dm2d0utU86SvJYfvKU-baGHa3se-Qll8bkCJ1U
 id: local
 label: Local
+description: ''
+weight: -5
 folder: ../config/www/local
 module:
   dblog: 0
@@ -18,4 +23,3 @@ graylist:
   - system.performance
 graylist_dependents: true
 graylist_skip_equal: false
-weight: -5

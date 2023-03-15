@@ -1,9 +1,13 @@
+uuid: 53ffb78c-2a34-4b5a-9755-974b9c72e20c
 langcode: en
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: ED9JmyuBmBaoJv7gSZuH2GIKL6t2nVY3lSD7JfwSgdU
 machine: local
 description: null
 name: Local
-url: 'https://www.bazo.docksal'
+weight: null
+url: 'https://www.my-first-drupal10-app.lndo.site'
 fg_color: '#e6e6e6'
 bg_color: '#0080ff'

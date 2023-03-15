@@ -1,3 +1,4 @@
+uuid: 3095b845-4d05-48d3-adba-73384fcb0963
 langcode: en
 status: true
 dependencies:
@@ -6,6 +7,8 @@ dependencies:
     - image.style.max_2600x2600
     - image.style.max_325x325
     - image.style.max_650x650
+_core:
+  default_config_hash: CcYzyNx9FjzWWNCWNl2j5tTKTB6FlMgInqtB3oTYnX4
 id: wide
 label: Wide
 image_style_mappings:

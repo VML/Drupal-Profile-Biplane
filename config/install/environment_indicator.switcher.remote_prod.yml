@@ -1,9 +1,13 @@
+uuid: 4e9e3a5e-6dcb-4b0e-a910-05b06db8fb12
 langcode: en
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: zTxzGYL-oduakOZdc5uwH2PypOsCMaQouCzlqj0mlFU
 machine: remote_prod
 description: null
 name: Prod
-url: 'https://www.bazo.com'
+weight: null
+url: 'https://www.my-first-drupal10-app.lndo.site.com'
 fg_color: '#d0d0d0'
 bg_color: '#0d0d0d'

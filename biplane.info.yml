@@ -2,8 +2,8 @@ name: Biplane
 type: profile
 description: 'Common configuration to fast-track site setup and development.'
 version: VERSION
-core: 8.x
-core_version_requirement: ^8 || ^9
+core: 10.x
+core_version_requirement: ^8 || ^9 || ^10
 dependencies:
   - address
   - admin_toolbar
@@ -22,10 +22,8 @@ dependencies:
   - block_content
   - block_field
   - breakpoint
-  - ckeditor
   - color
   - config
-  - config_export_ignore
   - config_filter
   - config_ignore
   - config_split
@@ -36,7 +34,6 @@ dependencies:
   - datetime_range
   - dynamic_page_cache
   - editor
-  - editor_file
   - entity_reference_revisions
   - environment_indicator
   - environment_indicator_ui
@@ -53,7 +50,6 @@ dependencies:
   - imageapi_optimize_resmushit
   - inline_form_errors
   - link
-  - link_class
   - linkit
   - login_emailusername
   - mailsystem
@@ -86,7 +82,6 @@ dependencies:
   - taxonomy
   - telephone
   - text
-  - theme_filter
   - token
   - toolbar
   - user
@@ -94,5 +89,5 @@ dependencies:
   - views
   - viewsreference
 themes:
-  - bartik
-  - seven
+  - claro
+  - olivero

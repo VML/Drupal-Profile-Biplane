@@ -1,9 +1,12 @@
+uuid: 60e22460-0965-4675-a046-bceeb81d21f7
 langcode: en
 status: true
 dependencies:
   module:
     - file
     - user
+_core:
+  default_config_hash: '-h3i35kwqVj3JxeM3Ezj_FZSHdL8bgcGoDRq4zJAW0o'
 id: files
 label: Files
 module: file
@@ -11,7 +14,6 @@ description: 'Find and manage files.'
 tag: default
 base_table: file_managed
 base_field: fid
-core: 8.x
 display:
   default:
     display_plugin: default

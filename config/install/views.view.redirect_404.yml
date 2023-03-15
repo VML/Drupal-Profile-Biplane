@@ -1,9 +1,12 @@
+uuid: c8b3cd51-74ab-4697-8ef8-ec11a5bca01f
 langcode: en
 status: true
 dependencies:
   module:
     - redirect_404
     - user
+_core:
+  default_config_hash: Ns0sASR2ZBSO7_s7icvItVnWPqhcpdX8GzEyJIQH10Y
 id: redirect_404
 label: 'Redirect 404'
 module: views
@@ -11,7 +14,6 @@ description: ''
 tag: ''
 base_table: redirect_404
 base_field: ''
-core: 8.x
 display:
   default:
     display_plugin: default

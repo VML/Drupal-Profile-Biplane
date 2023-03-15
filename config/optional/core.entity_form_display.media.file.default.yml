@@ -1,3 +1,4 @@
+uuid: c7eca279-fa90-4558-be9c-c7e4134923f1
 langcode: en
 status: true
 dependencies:
@@ -6,6 +7,9 @@ dependencies:
     - media.type.file
   module:
     - file
+    - path
+_core:
+  default_config_hash: nJ_pAVLU1NRMcrKA5fWh2CgKJ805y9T77jH8KS97rkY
 id: media.file.default
 targetEntityType: media
 bundle: file
@@ -31,6 +35,12 @@ content:
     settings:
       size: 60
       placeholder: ''
+    third_party_settings: {  }
+  path:
+    type: path
+    weight: 30
+    region: content
+    settings: {  }
     third_party_settings: {  }
   status:
     type: boolean_checkbox

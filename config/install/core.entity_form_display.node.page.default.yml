@@ -1,3 +1,4 @@
+uuid: 813f1f99-b2bc-41ed-a554-7d60cb10eec0
 langcode: en
 status: true
 dependencies:
@@ -7,6 +8,8 @@ dependencies:
   module:
     - path
     - text
+_core:
+  default_config_hash: sT9rWJy1BiR222l1OtGvnrOMFgLpwwdO6M1ciB4JDao
 id: node.page.default
 targetEntityType: node
 bundle: page
@@ -40,6 +43,11 @@ content:
     weight: 15
     region: content
     third_party_settings: {  }
+  simple_sitemap:
+    weight: 10
+    settings: {  }
+    third_party_settings: {  }
+    region: content
   status:
     type: boolean_checkbox
     settings:

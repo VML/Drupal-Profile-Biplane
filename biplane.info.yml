@@ -22,6 +22,7 @@ dependencies:
   - block_content
   - block_field
   - breakpoint
+  - ckeditor5
   - color
   - config
   - config_filter

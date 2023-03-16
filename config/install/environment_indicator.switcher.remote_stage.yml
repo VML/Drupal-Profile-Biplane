@@ -1,9 +1,6 @@
-uuid: ecf09285-396a-4568-b4b5-81210c550e59
 langcode: en
 status: true
 dependencies: {  }
-_core:
-  default_config_hash: tkxs7gMvV5J2lXrCzrQGrKeVg0Uiwnu3bOGJz_kDqzY
 machine: remote_stage
 description: null
 name: Stage

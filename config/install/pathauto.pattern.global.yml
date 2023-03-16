@@ -1,11 +1,8 @@
-uuid: cdb94a65-e0d7-4929-b5f2-ac6d9d74b582
 langcode: en
 status: true
 dependencies:
   module:
     - node
-_core:
-  default_config_hash: qK2qwd27OkNGlj4XZjXvanbtJ80r6mGhRJvBTTYruGI
 id: global
 label: Global
 type: 'canonical_entities:node'

@@ -1,9 +1,6 @@
-uuid: 228fbe2e-5ebf-41fd-9471-1723633d9bef
 langcode: en
 status: true
 dependencies: {  }
-_core:
-  default_config_hash: VVc9lUbBPu5m4WiF1n9abCMVOpvJQYZT3I6NNdtJe3c
 id: remote_dev
 label: 'Remote - Dev'
 description: ''

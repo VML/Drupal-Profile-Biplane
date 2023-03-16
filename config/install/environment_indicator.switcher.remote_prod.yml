@@ -1,9 +1,6 @@
-uuid: 4e9e3a5e-6dcb-4b0e-a910-05b06db8fb12
 langcode: en
 status: true
 dependencies: {  }
-_core:
-  default_config_hash: zTxzGYL-oduakOZdc5uwH2PypOsCMaQouCzlqj0mlFU
 machine: remote_prod
 description: null
 name: Prod

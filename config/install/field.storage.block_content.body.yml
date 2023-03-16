@@ -1,12 +1,9 @@
-uuid: 61252095-8a4b-4149-b457-a89a1a520235
 langcode: en
 status: true
 dependencies:
   module:
     - block_content
     - text
-_core:
-  default_config_hash: eS0snV_L3dx9shtWRTzm5eblwOJ7qKWC9IE-4GMTDFc
 id: block_content.body
 field_name: body
 entity_type: block_content

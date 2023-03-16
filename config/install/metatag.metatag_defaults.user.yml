@@ -1,9 +1,6 @@
-uuid: ca9865f3-df9e-4852-8917-1e4355217787
 langcode: en
 status: true
 dependencies: {  }
-_core:
-  default_config_hash: e3453dXHFW5TM24d8Odhumgwd8hIZVPvQv98wnGM7Ro
 id: user
 label: User
 tags:

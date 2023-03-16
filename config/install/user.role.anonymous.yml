@@ -1,4 +1,3 @@
-uuid: 5b8ef944-4bf2-4cca-9a50-c1f09591ad20
 langcode: en
 status: true
 dependencies:
@@ -8,8 +7,6 @@ dependencies:
     - filter
     - search
     - system
-_core:
-  default_config_hash: qUgYjFyoRJM_2wudOJvVzw4YsQwhTOQDowKDSVWKJv4
 id: anonymous
 label: 'Anonymous user'
 weight: 0

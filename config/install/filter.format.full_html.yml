@@ -1,12 +1,9 @@
-uuid: ea5dd627-387e-4fd4-a0d8-360116cc32af
 langcode: en
 status: true
 dependencies:
   module:
     - editor
     - linkit
-_core:
-  default_config_hash: nguwrbjqwWwKKkKNEsIb9kj6w-OImLmYsGgc5yR2nV4
 name: 'Full HTML'
 format: full_html
 weight: 1

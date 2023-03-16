@@ -1,9 +1,6 @@
-uuid: 85c16742-9795-49d3-9761-cf2d0e8f699e
 langcode: en
 status: true
 dependencies: {  }
-_core:
-  default_config_hash: pbgJrin6L7zsVEKS8oEDCYJPCzgu765iTGQh2GPX1no
 id: index
 label: 'Sitemap Index'
 description: 'The sitemap index sitemap type. A sitemap of this type lists sitemaps of all other types.'

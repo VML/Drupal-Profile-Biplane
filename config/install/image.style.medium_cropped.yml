@@ -1,11 +1,8 @@
-uuid: 31015c38-d517-4fc7-ba54-5d3b996f5972
 langcode: en
 status: true
 dependencies:
   module:
     - focal_point
-_core:
-  default_config_hash: Zi8zOKOzrKHcscymMA3Eh9kGlTdWdnTyNedFDPIEEeI
 name: medium_cropped
 label: 'Medium (220x220, cropped)'
 effects:

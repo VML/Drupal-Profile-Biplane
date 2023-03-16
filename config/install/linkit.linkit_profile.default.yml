@@ -1,11 +1,8 @@
-uuid: 11f281c2-bf17-434e-bb49-560c08a48582
 langcode: en
 status: true
 dependencies:
   module:
     - node
-_core:
-  default_config_hash: wS73ot8Gf0wt8pmq0w-Dac00nxdxUJchD-oPS2vyUnw
 label: Default
 id: default
 description: 'A default Linkit profile'
